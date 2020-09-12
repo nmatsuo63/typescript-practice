@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nmatsuo63/typescript-practice/issues"
   },
-  "homepage": "https://github.com/nmatsuo63/typescript-practice#readme"
+  "homepage": "https://github.com/nmatsuo63/typescript-practice#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
